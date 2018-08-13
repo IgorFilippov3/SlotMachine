@@ -1,0 +1,92 @@
+{"frames": {
+
+"Bet_Line.png":
+{
+	"frame": {"x":0,"y":0,"w":770,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":770,"h":16},
+	"sourceSize": {"w":770,"h":16}
+},
+"BG.png":
+{
+	"frame": {"x":0,"y":16,"w":960,"h":536},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":536},
+	"sourceSize": {"w":960,"h":536}
+},
+"BTN_Spin.png":
+{
+	"frame": {"x":0,"y":552,"w":98,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":98},
+	"sourceSize": {"w":98,"h":98}
+},
+"BTN_Spin_d.png":
+{
+	"frame": {"x":98,"y":552,"w":98,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":98},
+	"sourceSize": {"w":98,"h":98}
+},
+"SYM0.png":
+{
+	"frame": {"x":196,"y":552,"w":235,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":155},
+	"sourceSize": {"w":235,"h":155}
+},
+"SYM1.png":
+{
+	"frame": {"x":431,"y":552,"w":235,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":155},
+	"sourceSize": {"w":235,"h":155}
+},
+"SYM2.png":
+{
+	"frame": {"x":666,"y":552,"w":235,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":155},
+	"sourceSize": {"w":235,"h":155}
+},
+"SYM3.png":
+{
+	"frame": {"x":0,"y":707,"w":235,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":155},
+	"sourceSize": {"w":235,"h":155}
+},
+"SYM4.png":
+{
+	"frame": {"x":235,"y":707,"w":235,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":155},
+	"sourceSize": {"w":235,"h":155}
+},
+"SYM5.png":
+{
+	"frame": {"x":470,"y":707,"w":235,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":155},
+	"sourceSize": {"w":235,"h":155}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "slot-machine-atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":960,"h":862},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0ec4d4dfc48a6ed881810310232bae79:26fee3c088b671e971c379fab0f8a972:d9030343c7ed6120e2a27bf410f0d49f$"
+}
+}
